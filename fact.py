@@ -9,3 +9,5 @@ for i in range(x):
     fact = fact * i
 fact = fact * x
 print("Factorial is:",fact)
+
+print('Thus Factorial')
